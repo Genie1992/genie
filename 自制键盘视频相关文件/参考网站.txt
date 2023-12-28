@@ -1,0 +1,4 @@
+QMK开源固件：https://docs.qmk.fm
+键盘在线布局：http://www.keyboard-layout-editor.com
+键盘定位板生成：builder.swillkb.com
+键盘固件生成：https://kbfirmware.com
